@@ -1,4 +1,3 @@
-# MLOPS
 📌 Task Objective
 
 The goal of this project is to build a machine learning model that accurately classifies SMS messages as either spam or not spam. The system applies natural language processing (NLP) techniques to process text messages and uses a Naive Bayes classifier for prediction.
